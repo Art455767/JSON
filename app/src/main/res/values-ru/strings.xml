@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">НМедиа</string>
+    <string name="text">НМедиа!</string>
+    <string name="description_post_author_avatar">Аватар поста</string>
+    <string name="description_post_menu">Меню поста</string>
+    <string name="post_like">Лайк</string>
+    <string name="post_share">Поделиться</string>
+    <string name="post_view">Просмотры</string>
+    <string name="menu_remove">Удалить</string>
+    <string name="post_text">Введите текст</string>
+    <string name="error_empty_content">Текст не может быть пустым!</string>
+    <string name="menu_edit">Редактировать</string>
+    <string name="create">Создать</string>
+    <string name="edit_message">Редактирование</string>
+    <string name="chooser_share_post">Поделиться записью</string>
+    <string name="save">Сохранить</string>
+    <string name="add_post">Добавить</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.AppThem.LikeCheckBox" parent="Widget.MaterialComponents.CompoundButton.CheckBox">
+        <item name="buttonTint">@color/like_checkbox_tint</item>
+    </style>
+
+    <style name="Widget.AppThem.ShareCheckBox" parent="Widget.MaterialComponents.CompoundButton.CheckBox">
+        <item name="buttonTint">@color/share_checkbox_tint</item>
+    </style>
+
+    <style name="Widget.AppThem.MenuCheckBox" parent="Widget.MaterialComponents.CompoundButton.CheckBox">
+        <item name="buttonTint">@color/menu_checkbox_tint</item>
+    </style>
+
+    <style name="Widget.AppThem.LikeButton" parent="Widget.MaterialComponents.Button.TextButton.Icon">
+        <item name="iconTint">@color/like_checkbox_tint</item>
+        <item name="android:minWidth">0dp</item>
+    </style>
+
+    <style name="Widget.AppThem.ShareButton" parent="Widget.MaterialComponents.Button.TextButton.Icon">
+        <item name="iconTint">@color/share_checkbox_tint</item>
+        <item name="android:minWidth">0dp</item>
+    </style>
+    <style name="Widget.AppThem.MenuButton" parent="Widget.MaterialComponents.Button">
+        <item name="iconTint">@color/menu_checkbox_tint</item>
+        <item name="android:minWidth">0dp</item>
+
+    </style>
+
+    <style name="Widget.AppThem.ViewButton" parent="Widget.MaterialComponents.Button">
+        <item name="iconTint">@color/view_checkbox_tint</item>
+        <item name="android:minWidth">0dp</item>
+
+    </style>
+
+</resources>
